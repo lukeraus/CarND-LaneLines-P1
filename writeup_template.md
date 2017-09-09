@@ -2,7 +2,7 @@
 
 ## Project 1 by Luke Raus
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+### Below describes the methods and logic I use to find the lanes lines.
 
 ---
 
